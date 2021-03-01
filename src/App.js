@@ -8,7 +8,7 @@ import About from './components/pages/About';
 import Contact from './components/pages/Contact';
 import ScrollToTop from './components/ScrollToTop';
 
-/*MAIN FUNCTION route homescreens clickables to corresponding pages*/
+/*MAIN FUNCTION route clickables to corresponding pages*/
 /*NAVBAR, creates navigation bar on top of the screen*/
 /*SCROLLTOTOP always scroll top of screen when changing pages*/ 
 
