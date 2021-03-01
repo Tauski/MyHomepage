@@ -1,14 +1,17 @@
-* {
+*
+{
     box-sizing: border-box;
     margin: 0;
     padding: 0;
     font-family: 'PT Sans', sans-serif;
   }
   
+  /*APP.CSS Create default pages*/
+
   .home,
   .resume,
   .about,
-  .sign-up {
+  .contact {
     display: flex;
     height: 90vh;
     align-items: center;
@@ -17,7 +20,7 @@
   }
   
   .resume {
-    background-image: url('./components/images/img-8.jpg');
+    background-image: url('./components/images/AndroidLogo.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -26,18 +29,9 @@
   }
   
   .about{
-    background-image: url('./components/images/img-1.jpg');
+    background-image: url('./components/images/QtLogo.jpg');
     background-position: center;
     background-size: fill;
-    background-repeat: no-repeat;
-    color: #fff;
-    font-size: 100px;
-  }
-  
-  .sign-up {
-    background-image: url('./components/images/img-2.jpg');
-    background-position: center;
-    background-size: cover;
     background-repeat: no-repeat;
     color: #fff;
     font-size: 100px;

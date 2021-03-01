@@ -4,6 +4,8 @@ import Cards from '../Cards';
 import HeroSection from '../HeroSection';
 import Footer from '../Footer';
 
+/*HOME page for application*/
+
 function Home() {
   return (
     <>
