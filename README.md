@@ -1,3 +1,9 @@
+# MyHomepage
+
+This was made as a practice for more frontend oriented programming
+Simple homepage blueprint, easy to fill with custom data, information and media
+Used ReactJS and CSS. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
