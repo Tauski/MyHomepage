@@ -11,7 +11,7 @@ import flutterLogo from './images/flutter_logo.png'
 import cssLogo from './images/css_logo.jpg'
 import sqlLogo from './images/sql_logo.png'
 import StatusBar from './Status-bar';
-import Video1 from './videos/video-1.mp4'
+import Video4 from './videos/Video-3.mp4'
 
 /*ABOUTME this is the page about you. I think this would be filled with what you usually would write in your job application*/
 /*You can make it more interestin by adding images for instance I've added some images about coding techniques and added proficiency bars below*/
@@ -23,7 +23,7 @@ import Video1 from './videos/video-1.mp4'
 function AboutMe() {
     return (
       <div className="secion" id="about">
-        <video src= {Video1} autoPlay loop muted />
+        <video src= {Video4} autoPlay loop muted />        
       <div className="container">        
         <div className="about-section">
           <div className="content">

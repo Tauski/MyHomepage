@@ -1,5 +1,5 @@
 .about-section {
-  width: 90vw;
+  width: 90vw;  
   margin-left: 40px;
   margin-right: 40px;
   padding: 4rem 0 2rem 0;
@@ -16,7 +16,7 @@
   }
 
   .content > h1{
-    color: rgb(247, 218, 218);
+    color: rgb(255, 255, 255);
     font-size: 72px;
     margin-top: 0px;
   }
@@ -24,7 +24,7 @@
   .content > p {
     margin-top: 8px;
     
-    color: rgb(247, 218, 218);
+    color: rgb(255, 255, 255);
     text-align: initial;
     font-size: 26px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
