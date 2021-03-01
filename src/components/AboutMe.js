@@ -14,7 +14,7 @@ import StatusBar from './Status-bar';
 import Video4 from './videos/Video-3.mp4'
 
 /*ABOUTME this is the page about you. I think this would be filled with what you usually would write in your job application*/
-/*You can make it more interestin by adding images for instance I've added some images about coding techniques and added proficiency bars below*/
+/*You can make it more interesting by adding images. For instance I've added some images about coding techniques and added proficiency bars below*/
 /*also you may use different background images/videos*/
 
 /*SKILLITEMS simple carditems with STATUSBAR below them*/
